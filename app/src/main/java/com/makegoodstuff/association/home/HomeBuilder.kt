@@ -1,11 +1,11 @@
-package com.makegoodstuff.demoapp.root.loggedin.home
+package com.makegoodstuff.association.root.loggedin.home
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
-import com.makegoodstuff.demoapp.AppModule
-import com.makegoodstuff.demoapp.R
-import com.makegoodstuff.demoapp.root.loggedin.home.ChangePasswordBuilder
-import com.makegoodstuff.demoapp.root.loggedin.home.ChangePasswordInteractor
+import com.makegoodstuff.association.AppModule
+import com.makegoodstuff.association.R
+import com.makegoodstuff.association.root.loggedin.home.ChangePasswordBuilder
+import com.makegoodstuff.association.root.loggedin.home.ChangePasswordInteractor
 import com.uber.rib.core.InteractorBaseComponent
 import com.uber.rib.core.ViewBuilder
 import dagger.Binds

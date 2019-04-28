@@ -1,4 +1,4 @@
-package com.makegoodstuff.demoapp.root.ChangePassword
+package com.makegoodstuff.association.root.ChangePassword
 
 import android.view.LayoutInflater
 import android.view.ViewGroup

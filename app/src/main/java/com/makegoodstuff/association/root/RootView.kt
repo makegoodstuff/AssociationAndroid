@@ -1,4 +1,4 @@
-package com.makegoodstuff.demoapp.root
+package com.makegoodstuff.association.root
 
 import android.content.Context
 import android.util.AttributeSet

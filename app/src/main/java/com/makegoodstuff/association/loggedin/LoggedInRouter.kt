@@ -1,9 +1,9 @@
-package com.makegoodstuff.demoapp.root.loggedin
+package com.makegoodstuff.association.root.loggedin
 
-import com.makegoodstuff.demoapp.root.loggedin.newuser.HomeBuilder
-import com.makegoodstuff.demoapp.root.loggedin.newuser.HomeRouter
-import com.makegoodstuff.demoapp.root.loggedin.rootnavigator.RootNavigatorBuilder
-import com.makegoodstuff.demoapp.root.loggedin.rootnavigator.RootNavigatorRouter
+import com.makegoodstuff.association.root.loggedin.newuser.HomeBuilder
+import com.makegoodstuff.association.root.loggedin.newuser.HomeRouter
+import com.makegoodstuff.association.root.loggedin.rootnavigator.RootNavigatorBuilder
+import com.makegoodstuff.association.root.loggedin.rootnavigator.RootNavigatorRouter
 import com.uber.rib.core.ViewRouter
 
 class LoggedInRouter(

@@ -1,13 +1,13 @@
-package com.makegoodstuff.demoapp.root
+package com.makegoodstuff.association.root
 
-import com.makegoodstuff.demoapp.R
-import com.makegoodstuff.demoapp.navigation.NavigatorComponent
-import com.makegoodstuff.demoapp.root.loggedin.rootnavigator.RootNavigatorInteractor
-import com.makegoodstuff.demoapp.root.loggedout.LoggedOutInteractor
-import com.makegoodstuff.demoapp.service.AuthService
-import com.makegoodstuff.demoapp.service.BackButtonBehaviorService
-import com.makegoodstuff.demoapp.service.IntentLauncher
-import com.makegoodstuff.demoapp.service.NavigationService
+import com.makegoodstuff.association.R
+import com.makegoodstuff.association.navigation.NavigatorComponent
+import com.makegoodstuff.association.root.loggedin.rootnavigator.RootNavigatorInteractor
+import com.makegoodstuff.association.root.loggedout.LoggedOutInteractor
+import com.makegoodstuff.association.service.AuthService
+import com.makegoodstuff.association.service.BackButtonBehaviorService
+import com.makegoodstuff.association.service.IntentLauncher
+import com.makegoodstuff.association.service.NavigationService
 import com.uber.autodispose.kotlin.autoDisposable
 import com.uber.rib.core.Bundle
 import com.uber.rib.core.Interactor

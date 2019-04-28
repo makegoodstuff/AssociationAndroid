@@ -1,4 +1,4 @@
-package com.makegoodstuff.demoapp.navigation
+package com.makegoodstuff.association.navigation
 
 interface ViewPagerVisibilityHandler {
     fun isVisibleInPager()

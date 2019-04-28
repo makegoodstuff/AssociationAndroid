@@ -1,7 +1,7 @@
-package com.makegoodstuff.demoapp.root.loggedin.home
+package com.makegoodstuff.association.root.loggedin.home
 
-import com.makegoodstuff.demoapp.root.loggedin.home.ChangePasswordBuilder
-import com.makegoodstuff.demoapp.root.loggedin.home.ChangePasswordRouter
+import com.makegoodstuff.association.root.loggedin.home.ChangePasswordBuilder
+import com.makegoodstuff.association.root.loggedin.home.ChangePasswordRouter
 import com.uber.rib.core.ViewRouter
 
 class HomeRouter(

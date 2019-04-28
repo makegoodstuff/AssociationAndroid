@@ -1,8 +1,8 @@
-package com.makegoodstuff.demoapp.navigation
+package com.makegoodstuff.association.navigation
 
 import androidx.fragment.app.Fragment
-import com.makegoodstuff.demoapp.AppModule
-import com.makegoodstuff.demoapp.service.NavigationService
+import com.makegoodstuff.association.AppModule
+import com.makegoodstuff.association.service.NavigationService
 
 /**
  * An optional interface to be implemented by Fragments in order to receive

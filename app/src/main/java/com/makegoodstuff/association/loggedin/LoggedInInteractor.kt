@@ -1,7 +1,7 @@
-package com.makegoodstuff.demoapp.root.loggedin
+package com.makegoodstuff.association.root.loggedin
 
 import com.google.common.base.Optional
-import com.makegoodstuff.demoapp.root.loggedin.HomeInteractor
+import com.makegoodstuff.association.root.loggedin.HomeInteractor
 import com.makegoodstuff.util.isActivityReady
 import com.uber.autodispose.kotlin.autoDisposable
 import com.uber.rib.core.Bundle

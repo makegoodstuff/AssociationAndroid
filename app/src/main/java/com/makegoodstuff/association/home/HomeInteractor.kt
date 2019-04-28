@@ -1,6 +1,6 @@
-package com.makegoodstuff.demoapp.root.loggedin.home
+package com.makegoodstuff.association.root.loggedin.home
 
-import com.makegoodstuff.demoapp.root.loggedin.home.ChangePasswordInteractor
+import com.makegoodstuff.association.root.loggedin.home.ChangePasswordInteractor
 import com.uber.rib.core.Bundle
 import com.uber.rib.core.Interactor
 import com.uber.rib.core.RibInteractor

@@ -1,12 +1,12 @@
-package com.makegoodstuff.demoapp.root.loggedin
+package com.makegoodstuff.association.root.loggedin
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
-import com.makegoodstuff.demoapp.ActivityModule
-import com.makegoodstuff.demoapp.AppModule
-import com.makegoodstuff.demoapp.root.loggedin.home.HomeBuilder
-import com.makegoodstuff.demoapp.root.loggedin.home.HomeInteractor
-import com.makegoodstuff.demoapp.root.loggedin.rootnavigator.RootNavigatorBuilder
+import com.makegoodstuff.association.ActivityModule
+import com.makegoodstuff.association.AppModule
+import com.makegoodstuff.association.root.loggedin.home.HomeBuilder
+import com.makegoodstuff.association.root.loggedin.home.HomeInteractor
+import com.makegoodstuff.association.root.loggedin.rootnavigator.RootNavigatorBuilder
 import com.uber.autodispose.LifecycleScopeProvider
 import com.uber.rib.core.InteractorBaseComponent
 import com.uber.rib.core.ViewBuilder

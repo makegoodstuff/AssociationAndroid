@@ -1,4 +1,4 @@
-package com.makegoodstuff.demoapp.root.loggedout
+package com.makegoodstuff.association.root.loggedout
 
 import android.content.Context
 import android.util.AttributeSet

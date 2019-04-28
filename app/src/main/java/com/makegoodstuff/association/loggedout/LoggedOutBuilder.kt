@@ -1,9 +1,9 @@
-package com.makegoodstuff.demoapp.root.loggedout
+package com.makegoodstuff.association.root.loggedout
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
-import com.makegoodstuff.demoapp.ActivityModule
-import com.makegoodstuff.demoapp.AppModule
+import com.makegoodstuff.association.ActivityModule
+import com.makegoodstuff.association.AppModule
 import com.uber.autodispose.LifecycleScopeProvider
 import com.uber.rib.core.InteractorBaseComponent
 import com.uber.rib.core.ViewBuilder

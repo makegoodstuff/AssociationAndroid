@@ -1,4 +1,4 @@
-package com.makegoodstuff.demoapp.root.loggedout
+package com.makegoodstuff.association.root.loggedout
 
 import com.uber.rib.core.ViewRouter
 

@@ -1,7 +1,7 @@
 
-package com.makegoodstuff.demoapp.navigation
+package com.makegoodstuff.association.navigation
 
-import com.makegoodstuff.demoapp.config.FragmentBuilder
+import com.makegoodstuff.association.config.FragmentBuilder
 
 enum class TransitionAnimationKey {
     None, Default, Modal
